@@ -1,0 +1,31 @@
+h1 {
+    display: grid;
+    place-items: center;
+}
+
+h2 {
+    color: red;
+}
+
+body {
+    background-color: darkgray;
+}
+
+li {
+    font-size: 20px;
+}
+
+p {
+    color: chartreuse;  
+}
+
+img {
+    float: left;
+    margin-right: 50px;
+}
+
+.temp {
+    float: left;
+    margin-right: 50px;
+    height: 500px;
+}
